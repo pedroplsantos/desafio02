@@ -1,0 +1,27 @@
+{
+  "produtos":[
+      {
+      "id": 1,
+      "photo":"https://elastobor.vteximg.com.br/arquivos/ids/201702/CHAVE-COMBINADA-TRAMONTINA-13MM.jpg",
+      "name": "Chave Combinada ",
+      "description":"Descrição do produto",
+      "price": 5000
+      }, 
+
+      {
+      "id": 2,
+      "photo":"https://elastobor.vteximg.com.br/arquivos/ids/199090/ALICATE-TRAMONTINA-PRO-10--PRESSAO-TRIANGULAR-MORDENTE.jpg",
+      "name": "Alicate Tramontina Pro 10",
+      "description":"Descrição do produto",
+      "price": 5000
+      },
+
+      {
+          "id": 3,
+          "photo":"https://elastobor.vteximg.com.br/arquivos/ids/215165/TESOURAO-TRAMONTINA-PARA-PODA-CABO-TELESCOPICO-BYPASS.jpg",
+          "name": "Tesourao Tramontina Para Poda",
+          "description":"Descrição do produto",
+          "price": 5000
+          }  
+  ]
+} 
